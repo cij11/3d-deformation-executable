@@ -14,7 +14,7 @@ Platform assembly: C:\Users\harvey\Documents\GitHub\3d-deformation-executable\3d
 Loading C:\Users\harvey\Documents\GitHub\3d-deformation-executable\3d_deformation_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\harvey\Documents\GitHub\3d-deformation-executable\3d_deformation_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\harvey\Documents\GitHub\3d-deformation-executable\3d_deformation_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.074 seconds
+- Completed reload, in  0.077 seconds
 Platform assembly: C:\Users\harvey\Documents\GitHub\3d-deformation-executable\3d_deformation_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\harvey\Documents\GitHub\3d-deformation-executable\3d_deformation_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 59Hz; virtual: 4800x1620 at 0,0
